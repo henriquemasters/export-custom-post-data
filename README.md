@@ -1,2 +1,2 @@
 # export-custom-post-data
-Export custom post data to CSV file.
+Exporta dados de um Custom Post Type para arquivo CSV.
