@@ -2,7 +2,7 @@
 
 **Versão:** 2.0.0  
 **Autor:** Henrique Mariano S. Silva  
-**Autor URI:** [mailto:henrique.mariano@montreal.com.br](mailto:henrique.mariano@montreal.com.br)
+**Autor URI:** [henrique.masters@gmail.com](mailto:henrique.masters@gmail.com)
 
 ## Descrição
 
@@ -58,9 +58,4 @@ Sinta-se à vontade para enviar pull requests com melhorias ou correções. Para
 
 ## Suporte
 
-Para suporte, entre em contato com [henrique.mariano@montreal.com.br](mailto:henrique.mariano@montreal.com.br).
-
-## Licença
-
-Este plugin está disponível sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
-
+Para suporte, entre em contato com [henrique.masters@gmail.com](mailto:henrique.masters@gmail.com).
